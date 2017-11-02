@@ -15,10 +15,10 @@
 
 ## Smart-contracts description
 
-Contract mint bounty, advisors and foduners tokens after each stage finished. 
+Contract mint bounty, advisors and founders tokens after each stage finished. 
 Crowdsale contracts have special function to retrieve transferred in errors tokens.
 
-### Contracts contans
+### Contracts contains
 1. _GENSharesToken_ 
 2. _Presale_
 3. _ICO_

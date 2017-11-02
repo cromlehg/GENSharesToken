@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cromlehg/cp6.git"
+    "url": "git+https://github.com/cromlehg/GENSharesToken.git"
   },
   "keywords": [
     "solidity",
@@ -36,7 +36,7 @@
   "author": "Alexander Strakh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cromlehg/cp6/issues"
+    "url": "https://github.com/cromlehg/GENSharesToken/issues"
   },
-  "homepage": "https://github.com/cromlehg/cp6#readme"
+  "homepage": "https://github.com/cromlehg/GENSharesToken#readme"
 }

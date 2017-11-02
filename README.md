@@ -1,4 +1,8 @@
-# GEN Shares Token
+<p align="center">
+  <h1> GEN Shares Token</h1>
+  <img src="./logo.png">
+</p>
+
 
 * _Standart_        : ERC20
 * _Name_            : GEN Shares

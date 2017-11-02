@@ -4,7 +4,7 @@ require('babel-polyfill');
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
   // to customize your Truffle configuration!
-  networks: { //<--- you should run: testrpc --gasLimit 0x187E7C4
+  networks: { //<--- you should run testrpc from scripts
     development: {
       host: 'localhost',
       port: 8545,

@@ -560,7 +560,7 @@ contract Deployer is Ownable {
     presale.setBountyTokensPercent(4);
     presale.setAdvisorsTokensPercent(2);
     presale.setDevTokensPercent(10);
-    presale.setSoftcap(46000000000000000000);
+    presale.setSoftcap(40000000000000000000);
     presale.setHardcap(50000000000000000000000);
     presale.addBonus(7,50);
     presale.addBonus(7,40);

@@ -62,7 +62,7 @@ Investor must not use other wallets, coinmarkets or stocks. Can lose money.
 * _Hardcap_                    : 50000 ETH
 * _Bounty_                     : 4% of total tokens
 * _Advisors_                   : 2% of total tokens
-* _Founders_                   : 10% of total tokens
+* _Developers_                 : 10% of total tokens
 * _Start_                      : 25.11.2017 01:00 GMT 
 * _End_                        : 24.12.2017 23:00 GMT
 * _Founders tokens wallet_     : 0xa20C62282bEC52F9dA240dB8cFFc5B2fc8586652
@@ -81,7 +81,7 @@ _Milestones_
 * _Hardcap_                    : 206000 ETH
 * _Bounty_                     : 4% of total tokens
 * _Advisors_                   : 2% of total tokens
-* _Founders_                   : 10% of total tokens
+* _Developres_                 : 10% of total tokens
 * _Start_                      : 25.12.2017 01:00 GMT
 * _End_                        : 31.01.2018 00:00 GMT
 * _Founders tokens wallet_     : 0x55A9E5b55F067078E045c72088C3888Bbcd9a64b

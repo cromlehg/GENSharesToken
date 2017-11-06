@@ -19,9 +19,9 @@ Contract mint bounty, advisors and founders tokens after each stage finished.
 Crowdsale contracts have special function to retrieve transferred in errors tokens.
 
 ### Contracts contains
-1. _GENSharesToken_ 
-2. _Presale_
-3. _ICO_
+1. _GENSharesToken_ - https://etherscan.io/token/0xa94be64ce43e5bf1fc2a1b0433bf35aa2f09a187
+2. _Presale_ - https://etherscan.io/address/0x7b918c11398d485fceae7f2864f09701857d7549
+3. _ICO_ - https://etherscan.io/address/0x165cb56703df68d34bbd6d49e816bda8302c2b7c
 4. _Deployer_ - contract with main configuration for production
 
 ### How to manage contract

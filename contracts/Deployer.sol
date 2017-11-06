@@ -26,14 +26,14 @@ contract Deployer is Ownable {
     presale.setBountyTokensPercent(4);
     presale.setAdvisorsTokensPercent(2);
     presale.setDevTokensPercent(10);
-    presale.setSoftcap(45000000000000000000);
+    presale.setSoftcap(46000000000000000000);
     presale.setHardcap(50000000000000000000000);
     presale.addBonus(7,50);
     presale.addBonus(7,40);
     presale.addBonus(100,35);
     presale.setStart(1511571600);
     presale.setEnd(1514156400);    
-    presale.setDevLimit(45000000000000000000);
+    presale.setDevLimit(6000000000000000000);
     presale.setWallet(0x4bB656423f5476FeC4AA729aB7B4EE0fc4d0B314);
     presale.setBountyTokensWallet(0xcACBE5d8Fb017407907026804Fe8BE64B08511f4);
     presale.setDevTokensWallet(0xa20C62282bEC52F9dA240dB8cFFc5B2fc8586652);

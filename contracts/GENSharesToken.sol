@@ -2,9 +2,8 @@ pragma solidity ^0.4.18;
 
 import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
 import 'zeppelin-solidity/contracts/token/StandardToken.sol';
-import './LockableChanges.sol';
 
-contract GENSharesToken is StandardToken, Ownable, LockableChanges {	
+contract GENSharesToken is StandardToken, Ownable {	
 
   using SafeMath for uint256;
 

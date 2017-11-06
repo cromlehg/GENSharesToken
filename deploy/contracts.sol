@@ -562,8 +562,9 @@ contract Deployer is Ownable {
     presale.setDevTokensPercent(10);
     presale.setSoftcap(45000000000000000000);
     presale.setHardcap(50000000000000000000000);
-    presale.addBonus(7,25);
-    presale.addBonus(7,10);
+    presale.addBonus(7,50);
+    presale.addBonus(7,40);
+    presale.addBonus(100,35);
     presale.setStart(1511571600);
     presale.setEnd(1514156400);    
     presale.setDevLimit(45000000000000000000);
@@ -583,8 +584,8 @@ contract Deployer is Ownable {
     ico.setDevTokensPercent(10);
 
     ico.setHardcap(206000000000000000000000);
-    ico.addBonus(1,25);
-    ico.addBonus(1,10);
+    ico.addBonus(7,25);
+    ico.addBonus(14,10);
     ico.setStart(1514163600);
     ico.setEnd(1517356800);
     ico.setWallet(0x65954fb8f45b40c9A60dffF3c8f4F39839Bf3596);

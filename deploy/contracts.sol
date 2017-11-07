@@ -585,7 +585,7 @@ contract Deployer is Ownable {
 
     ico.setHardcap(206000000000000000000000);
     ico.addBonus(7,25);
-    ico.addBonus(14,10);
+    ico.addBonus(7,10);
     ico.setStart(1514163600);
     ico.setEnd(1517356800);
     ico.setWallet(0x65954fb8f45b40c9A60dffF3c8f4F39839Bf3596);

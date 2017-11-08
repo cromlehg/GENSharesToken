@@ -19,9 +19,9 @@ Contract mint bounty, advisors and founders tokens after each stage finished.
 Crowdsale contracts have special function to retrieve transferred in errors tokens.
 
 ### Contracts contains
-1. _GENSharesToken_ - https://etherscan.io/token/0x4721bccae510c30a43aea825e1ab0a28c37d7916 
-2. _Presale_ - https://etherscan.io/address/0xbc6ef6c3ced8838153daa1833e1c1f5a2bc9895a
-3. _ICO_ - https://etherscan.io/address/0x9aa4df8ef5086186f13f43b41a00c4fff76456ac
+1. _GENSharesToken_ - https://etherscan.io/token/0x959b06600405760d95b5be11a2d36c1e8e7517aa
+2. _Presale_ - https://etherscan.io/address/0x7950d074caf142bdad0c11b2402cd85344f8c7bd
+3. _ICO_ - https://etherscan.io/address/0x8c556a7bb74b4979a6b4dc654492c3f6fa102a95
 4. _Deployer_ - contract with main configuration for production
 
 ### How to manage contract
@@ -53,12 +53,12 @@ Investor must not use other wallets, coinmarkets or stocks. Can lose money.
 ## Main network configuration
 
 * _Base price_                 : 250 per ETH
-* _Minimal insvested limit_    : 0.1 ETH
 
 ### Crowdsale stages
 
 #### Presale
-* _Softcap_                    : 45 ETH
+* _Minimal insvested limit_    : 40 ETH
+* _Softcap_                    : 46 ETH
 * _Hardcap_                    : 50000 ETH
 * _Bounty_                     : 4% of total tokens
 * _Advisors_                   : 2% of total tokens
@@ -78,6 +78,7 @@ _Milestones_
 3. 2 week                      : +35%
 
 #### ICO
+* _Minimal insvested limit_    : 0.1 ETH
 * _Hardcap_                    : 206000 ETH
 * _Bounty_                     : 4% of total tokens
 * _Advisors_                   : 2% of total tokens

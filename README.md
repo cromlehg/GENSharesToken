@@ -11,7 +11,7 @@
 * _Emission_        : Mintable
 * _Crowdsales_      : 2
 * _Fiat dependency_ : No
-* _Tokens locked_   : No
+* _Tokens locked_   : Locked
 
 ## Smart-contracts description
 
@@ -19,9 +19,9 @@ Contract mint bounty, advisors and founders tokens after each stage finished.
 Crowdsale contracts have special function to retrieve transferred in errors tokens.
 
 ### Contracts contains
-1. _GENSharesToken_ - https://etherscan.io/token/0x959b06600405760d95b5be11a2d36c1e8e7517aa
-2. _Presale_ - https://etherscan.io/address/0x7950d074caf142bdad0c11b2402cd85344f8c7bd
-3. _ICO_ - https://etherscan.io/address/0x8c556a7bb74b4979a6b4dc654492c3f6fa102a95
+1. _GENSharesToken_ - https://etherscan.io/token/0xe17276888d1b3c0eac64309c15f5d4195d24c695
+2. _Presale_ - https://etherscan.io/address/0x28eec9c792b7c68d225f2e8c12ba3c3d0183b368
+3. _ICO_ - https://etherscan.io/address/0xeac005576753972f0893be08a488db1d2aae6566
 4. _Deployer_ - contract with main configuration for production
 
 ### How to manage contract

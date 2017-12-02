@@ -18,11 +18,11 @@
 Contract mint bounty, advisors and founders tokens after each stage finished. 
 Crowdsale contracts have special function to retrieve transferred in errors tokens.
 
-### Contracts contains
-1. _GENSharesToken_ - https://etherscan.io/token/0xe17276888d1b3c0eac64309c15f5d4195d24c695
-2. _Presale_ - https://etherscan.io/address/0x28eec9c792b7c68d225f2e8c12ba3c3d0183b368
-3. _ICO_ - https://etherscan.io/address/0xeac005576753972f0893be08a488db1d2aae6566
-4. _Deployer_ - contract with main configuration for production
+### Contracts 
+1. _GENSharesToken_ - https://etherscan.io/token/0x48ca21691aba904a97a2f6807d5433b9b7ae3197
+2. _Presale_ - https://etherscan.io/address/0x86b14014d74981ebe02af2981f0fc9d0ba73c2a2
+3. _ICO_ - https://etherscan.io/address/0x548be6d7065be1870bac64435166871c6e82ea13
+4. _Deployer_ - https://etherscan.io/address/0x01fbb42b56f38782d8db4ba8abba44eeaa472f81
 
 ### How to manage contract
 To start working with contract you should follow next steps:
@@ -57,7 +57,7 @@ Investor must not use other wallets, coinmarkets or stocks. Can lose money.
 ### Crowdsale stages
 
 #### Presale
-* _Minimal insvested limit_    : 40 ETH
+* _Minimal insvested limit_    : 0.1 ETH
 * _Softcap_                    : 46 ETH
 * _Hardcap_                    : 50000 ETH
 * _Bounty_                     : 4% of total tokens

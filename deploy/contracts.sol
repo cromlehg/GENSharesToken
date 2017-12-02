@@ -568,7 +568,7 @@ contract Deployer is Ownable {
     presale = new Presale();
     presale.setToken(token);
     token.setSaleAgent(presale);
-    presale.setMinInvestedLimit(40000000000000000000);  
+    presale.setMinInvestedLimit(100000000000000000);  
     presale.setPrice(250000000000000000000);
     presale.setBountyTokensPercent(4);
     presale.setAdvisorsTokensPercent(2);
